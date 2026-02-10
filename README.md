@@ -35,12 +35,6 @@ I am a Software Engineering student at **ISET Djerba** 🇹🇳. I spend my time
 
 ---
 
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TayssirBenAhmed&show_icons=true&theme=tokyonight" alt="Tayssir's GitHub stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TayssirBenAhmed&layout=compact&theme=tokyonight" alt="Top Languages" width="300" />
-</p>
 
 ---
 

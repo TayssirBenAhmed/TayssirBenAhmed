@@ -9,8 +9,8 @@
 
 I am a Software Engineering student at **ISET Djerba** 🇹🇳. I spend my time trying to connect the dots between complex back-end systems and what people actually see and use. 🧩
 
-*   ✨ **My Philosophy:** For me, coding is about solving real problems, like making healthcare better or making online shopping a bit easier.
-*   🤝 **Collaboration:** I’m always up for learning from teammates and sharing what I know. I’m flexible, excited by new challenges, and I focus on writing code that is clean and easy to maintain. 💎
+*    **My Philosophy:** For me, coding is about solving real problems, like making healthcare better or making online shopping a bit easier.
+*    **Collaboration:** I’m always up for learning from teammates and sharing what I know. I’m flexible, excited by new challenges, and I focus on writing code that is clean and easy to maintain. 💎
 
 ---
 
@@ -18,20 +18,20 @@ I am a Software Engineering student at **ISET Djerba** 🇹🇳. I spend my time
 
 | Category | Skills |
 | :--- | :--- |
-| **💻 Languages** | JavaScript (ES6+), TypeScript, PHP, Java, Python, C#, Node.js, Dart |
-| **🎨 Frontend** | Angular, Vue.js, React Native, HTML5, CSS3/SASS |
-| **⚙️ Backend & APIs** | Spring Boot, Symfony, Laravel, Node.js/Express, RESTful APIs, JWT |
-| **📱 Mobile** | Flutter, Android Studio, UI/UX Design |
-| **🗄️ Databases** | MySQL, MongoDB, PostgreSQL, PL/SQL |
-| **🛠️ DevOps & Tools** | Docker, Git/GitHub, Azure, UML, Agile/Scrum, OOP |
+| ** Languages** | JavaScript (ES6+), TypeScript, PHP, Java, Python, C#, Node.js, Dart |
+| ** Frontend** | Angular, Vue.js, React Native, HTML5, CSS3/SASS |
+| ** Backend & APIs** | Spring Boot, Symfony, Laravel, Node.js/Express, RESTful APIs, JWT |
+| ** Mobile** | Flutter, Android Studio, UI/UX Design |
+| ** Databases** | MySQL, MongoDB, PostgreSQL, PL/SQL |
+| ** DevOps & Tools** | Docker, Git/GitHub, Azure, UML, Agile/Scrum, OOP |
 
 ---
 
 ### 🔍 What I'm looking into
 
-*   🧠 **Deep Learning & NLP:** I’m exploring tech that helps doctors and patients talk to each other better using AI.
-*   🛡️ **Cybersecurity in AI Systems:** Ensuring smart systems are safe, especially with sensitive health info. I want to keep user data private.
-*   🏗️ **Microservices Architecture:** Designing systems that can handle a lot of users and stay stable as they grow.
+*    **Deep Learning & NLP:** I’m exploring tech that helps doctors and patients talk to each other better using AI.
+*    **Cybersecurity in AI Systems:** Ensuring smart systems are safe, especially with sensitive health info. I want to keep user data private.
+*    **Microservices Architecture:** Designing systems that can handle a lot of users and stay stable as they grow.
 
 ---
 

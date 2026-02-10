@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Tayssir Ben Ahmed!
 
-### 🚀 Junior Full-Stack Developer | Web & Mobile Specialist | AI & New Tech Enthusiast
-**Building smart, scalable software that actually helps people.** 🌍
+###  Junior Full-Stack Developer | Web & Mobile Specialist | AI & New Tech Enthusiast
+**Building smart, scalable software that actually helps people.** 
 
 ---
 
@@ -10,7 +10,6 @@
 I am a Software Engineering student at **ISET Djerba** 🇹🇳. I spend my time trying to connect the dots between complex back-end systems and what people actually see and use. 🧩
 
 *   ✨ **My Philosophy:** For me, coding is about solving real problems, like making healthcare better or making online shopping a bit easier.
-*   🏥 **Current Mission:** I'm working on **Post-Care Connect**, a platform that uses **AI** to keep an eye on patients after surgery to spot issues early and help them heal faster.
 *   🤝 **Collaboration:** I’m always up for learning from teammates and sharing what I know. I’m flexible, excited by new challenges, and I focus on writing code that is clean and easy to maintain. 💎
 
 ---

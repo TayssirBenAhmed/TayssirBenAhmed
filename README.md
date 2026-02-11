@@ -39,7 +39,13 @@
 
 <br/>
 
+---
 
+## 🐍 My Contribution Snake
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/TayssirBenAhmed/TayssirBenAhmed/output/github-contribution-grid-snake-dark.svg)
+
+---
 <br/>
 
 <h3 align="center">✍️ Random Dev Quote</h3>

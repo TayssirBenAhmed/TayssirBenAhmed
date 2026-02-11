@@ -50,12 +50,14 @@
 
   ### 📈 Activity Overview & Most Used Languages
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TayssirBenAhmed&theme=tokyonight" width="400" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=TayssirBenAhmed&theme=tokyonight" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TayssirBenAhmed&theme=tokyonight" width="800" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=TayssirBenAhmed&theme=tokyonight" width="800" />
 </p>
 <br/>
-
-
+---
 
 <h3 align="center">✍️ Random Dev Quote</h3>
 

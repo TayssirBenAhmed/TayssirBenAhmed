@@ -1,16 +1,16 @@
-# 👋 Hey, I'm Tayssir !
+#  Hey, I'm Tayssir !
 
-### Junior Full-Stack Developer | Web & Mobile Specialist | AI & New Tech Enthusiast
+###  Junior Full-Stack Developer | Web & Mobile Specialist | AI & New Tech Enthusiast
 **Building smart, scalable software that actually helps people.**
 
 ---
 
-## 👨‍💻 About Me
-I am a Software Engineering student at **ISET Djerba** 🇹🇳. I spend my time trying to connect the dots between complex back-end systems and what people actually see and use.
+### 👨‍💻 About Me
 
-- 🏥 **E-Health:** Currently developing **Post-Care Connect** (AI-driven follow-up).
-- 🛡️ **Cybersecurity:** Focused on **CyberSentry** (AI vulnerability detection).
-- 🤝 **Collaboration:** Always eager to join dynamic technical teams in **France 🇫🇷**.
+- 💠 **I'm** a Full-Stack Developer creating scalable Web & Mobile apps.
+- ☄️ **I'm** an AI Enthusiast building **Post-Care Connect** & **CyberSentry**.
+- 📍 **I'm** a Software Engineering student at **ISET Djerba** 🇹🇳.
+- ⚡ **I'm** dedicated to clean code and exploring new tech stacks.
 
 ---
 
@@ -40,4 +40,3 @@ I am a Software Engineering student at **ISET Djerba** 🇹🇳. I spend my time
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-**⚡ I’m curious, driven, and always looking to see what’s next in AI and software.**

@@ -53,6 +53,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TayssirBenAhmed&theme=tokyonight" width="400" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=TayssirBenAhmed&theme=tokyonight" width="400" />
 </p>
+<br/>
+
+### 📈 Contribution Graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=TayssirBenAhmed&theme=tokyonight)
+</br>
+
 <h3 align="center">✍️ Random Dev Quote</h3>
 
 <div align="center">

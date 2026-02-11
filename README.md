@@ -1,7 +1,24 @@
 # 👋 Hey, I'm Tayssir !
 
-###  Junior Full-Stack Developer | Web & Mobile Specialist | AI & New Tech Enthusiast
-**Building smart, scalable software that actually helps people.** 
+### Junior Full-Stack Developer | Web & Mobile Specialist | AI & New Tech Enthusiast
+**Building smart, scalable software that actually helps people.**
+
+---
+
+## 👨‍💻 About Me
+I am a Software Engineering student at **ISET Djerba** 🇹🇳. I spend my time trying to connect the dots between complex back-end systems and what people actually see and use.
+
+- 🏥 **E-Health:** Currently developing **Post-Care Connect** (AI-driven follow-up).
+- 🛡️ **Cybersecurity:** Focused on **CyberSentry** (AI vulnerability detection).
+- 🤝 **Collaboration:** Always eager to join dynamic technical teams in **France 🇫🇷**.
+
+---
+
+## 🏆 Featured Projects
+- [**Post-Care Connect**](https://github.com/TayssirBenAhmed/Post-Care-Connect) 🏥 : Full-stack E-Health platform (Next.js/AI/WebRTC).
+- [**CyberSentry**](https://github.com/TayssirBenAhmed/cybersentry) 🛡️ : Advanced AI security scanner (Node.js/Gemini/Docker).
+- [**Growly**](https://github.com/TayssirBenAhmed/Growly) 🌿 : Botanical AI identification app (Flutter/Node.js).
+
 
 ---
 

@@ -2,7 +2,6 @@
 
 ###  Junior Full-Stack Developer | Web & Mobile Specialist | AI & New Tech Enthusiast
 **Building smart, scalable software that actually helps people.** 
-https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Y2ZzE3OWdta21jNmxzbmhsMzlydWZreTVvZW9sc2FmeXBsbmF4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif
 
 ---
 

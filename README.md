@@ -52,10 +52,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TayssirBenAhmed&theme=tokyonight" width="800" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=TayssirBenAhmed&theme=tokyonight" width="800" />
-</p>
 <br/>
 ---
 

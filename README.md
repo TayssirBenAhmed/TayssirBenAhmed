@@ -15,7 +15,7 @@
 ---
 
 ## 🏆 Featured Projects
-- [**Post-Care Connect**](https://github.com/TayssirBenAhmed/Post-Care-Connect) 🏥 : Full-stack E-Health platform (Next.js/AI/WebRTC).
+- [**Post-Care Connect**](https://github.com/TayssirBenAhmed/Post-Care-Connect) 🏥 : Full-stack E-Health platform (Nest.js/React Native/React/AI/WebRTC).
 - [**CyberSentry**](https://github.com/TayssirBenAhmed/cybersentry) 🛡️ : Advanced AI security scanner (Node.js/Gemini/Docker).
 - [**Growly**](https://github.com/TayssirBenAhmed/Growly) 🌿 : Botanical AI identification app (Flutter/Node.js).
 

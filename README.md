@@ -14,7 +14,7 @@
 
 ## 🏆 Featured Production & Open-Source Projects
 
-### 🛠️ [SmartExtract IA](https://github.com/TayssirBenAhmed](https://github.com/TayssirBenAhmed/smart-extract-Ai)) — AI Data Extraction SaaS *(In Active Development)*
+### 🛠️ [SmartExtract IA](https://github.com/TayssirBenAhmed/smart-extract-Ai)) — AI Data Extraction SaaS *(In Active Development)*
 *A complete micro-SaaS designed to automate manual accounting ingestion workflows.*
 - **Backend & Arch:** Engineered with **NestJS** respecting **Clean Architecture** boundaries (Domain, Application, Infrastructure layers) and strict **Multi-tenancy** isolation.
 - **AI Core:** Implemented **Gemini 1.5/3.6 Flash** utilizing native **Structured Outputs (JSON Schema)** to extract complex structured data from invoices and receipts with a **99% accuracy rate**.
